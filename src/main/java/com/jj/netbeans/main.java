@@ -12,5 +12,6 @@ package com.jj.netbeans;
 public class main {
     public static void main(String[] args) {
         System.out.println("Hello World JCG in Gradle NetBeans");
+         System.out.println("Hello World JCG in Gradle NetBeans");
     }
 }
